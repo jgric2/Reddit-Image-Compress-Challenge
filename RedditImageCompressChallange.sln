@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedditImageCompressChallange", "RedditImageCompressChallange\RedditImageCompressChallange.csproj", "{FA231BE1-F770-4530-AF49-2DDA2276A148}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA231BE1-F770-4530-AF49-2DDA2276A148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA231BE1-F770-4530-AF49-2DDA2276A148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA231BE1-F770-4530-AF49-2DDA2276A148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA231BE1-F770-4530-AF49-2DDA2276A148}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E21E20E0-5D4F-4B98-AF07-364EEC08ACCB}
+	EndGlobalSection
+EndGlobal
